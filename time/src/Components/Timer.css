@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,200&family=Tourney:wght@600&display=swap');
+
+.timer {
+    color: #FF9500 !important;
+    display: flex;
+    font-size: 128px;
+    font-family: Tourney, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    width: 400px;
+}
+.btn{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 310px;
+}
+.btn__start {
+    margin: 0 5px;
+    min-width: 90px;
+    padding: 8px 12px;
+    color: white;
+    background: #4aae71;
+}
+
+.btn__reset {
+    margin: 0 5px;
+    min-width: 90px;
+    padding: 8px 12px;
+    color: white;
+    background: #fbad10;
+}
+
+.btn__stop {
+    margin: 0 5px;
+    min-width: 90px;
+    padding: 8px 12px;
+    color: white;
+    background: #EF6262;;
+}

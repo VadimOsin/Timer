@@ -1,0 +1,42 @@
+.edit {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 450px;
+    font-size: 36px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+.edit__setup{
+    font-size: 36px;
+    color: white;
+    background: #9a9797;
+    align-items: center;
+    text-align: center;
+    width: 60px;
+    height: 50px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+
+
+.edit__colon {
+
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.btn__save{
+    color: white;
+    background: #0090dd;;
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    padding-top: 5px;
+    border-radius: 5px;
+    margin-left: 20px;
+    font-size: 16px;
+}
